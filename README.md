@@ -39,3 +39,7 @@ viewer.navigation.setPivotPoint({x: -0.7180065711871748, y: -11.258963707247002,
 Need to do a `RAYHIT` on mouse up (touch event) to the center of the screen.  Get the result x,y,z , if something 'hit', set  pivot to that x,y,z.
 
 If no hit on mouse up, do not update pivot point.
+
+## Minimap
+
+DEMO: https://wallabyway.github.io/forge-pinch-zoom/minimap.html
